@@ -1,0 +1,6 @@
+pandas
+seaborn
+scikit-learn
+jinja2
+ipykernel
+wordcloud
